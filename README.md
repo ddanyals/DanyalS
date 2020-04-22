@@ -18,8 +18,8 @@ digitalData = {
         reportSuites: "wmgliluziofficial.com,wmgatl,wmg" // replace with the suite id provided for the sites
     },
     content: {
-        artist: "Lil Uzi Vert",
-        label: "Atlantic Records",
+        artist: "Danyal S",
+        label: "Danyals Records",
         sublabel: ""
     },
     page: {
@@ -2118,7 +2118,7 @@ div#block-menu-menu-home-one-page-linked .content .site-menu span {
     <div class="albumArt">
         <img src="/sites/g/files/g2000006836/f/202003/EAArtwork.jpeg"></div>
     <div class="albumButton">
-        <a href="https://uzi.lnk.to/EADeluxeAW" target="_blank" custom-link-name="Eternal Atake Download/Stream Button Linkfire (header)">download/stream</a>
+        <a href="https://uzi.lnk.to/EADeluxeAW" target="_blank" custom-link-name="Here We Go Download/Stream Button Linkfire (header)">download/stream</a>
     </div>
 </div>
 
@@ -2733,7 +2733,7 @@ jQuery('h1#page-title').html('Albums');
 
 								<div class="music-title">
 
-									ETERNAL ATAKE DELUXE
+									HERE WE GO
 
 								</div>
 
