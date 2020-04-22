@@ -2800,7 +2800,7 @@ jQuery('h1#page-title').html('Albums');
       <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first" style="display: list-item;">  
   <div class="views-field views-field-nothing">        <span class="field-content"><div class="streaming-links-embed spotify">
 <div class="embed-inner-wrapper spotify">
-<iframe src="https://open.spotify.com/embed/album/0fEO7g2c5onkaXsybEtuD2" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://https://open.spotify.com/album/6O0ggfQCsMlUsCUDu8nK3p?si=8T_EskYFSougHwdOzQoh1A" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 </div></span>  </div></li>
           <li class="views-row views-row-2 views-row-even" style="display: none;">  
@@ -3513,7 +3513,7 @@ jQuery('h1#page-title').html('Albums');
       <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first" style="display: list-item;">  
   <div class="views-field views-field-nothing">        <span class="field-content"><div class="streaming-links-embed spotify">
 <div class="embed-inner-wrapper spotify">
-<iframe src="https://open.spotify.com/embed/track/3XiNC94b4Tq1xwv70sQJGN" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://https://open.spotify.com/album/6O0ggfQCsMlUsCUDu8nK3p?si=8T_EskYFSougHwdOzQoh1A" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 </div></span>  </div></li>
           <li class="views-row views-row-2 views-row-even" style="display: none;">  
@@ -3948,7 +3948,7 @@ jQuery('h1#page-title').html('Albums');
 
 								<div class="streaming-links StreamingDTM ">
 
-									<div class="item-list"><ul><li class="first"><a href="https://open.spotify.com/album/64eE6FnNj7UJ9LEkN4EbvS" target="_blank" data-track="spotify">Spotify</a></li>
+									<div class="item-list"><ul><li class="first"><a href="https://open.spotify.com/album/6O0ggfQCsMlUsCUDu8nK3p?si=8T_EskYFSougHwdOzQoh1A" target="_blank" data-track="spotify">Spotify</a></li>
 <li class="last"><a href="https://soundcloud.com/liluzivert/new-patek" target="_blank" data-track="soundcloud">Soundcloud</a></li>
 </ul></div> 
 
@@ -4060,7 +4060,7 @@ jQuery('h1#page-title').html('Albums');
       <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first" style="display: list-item;">  
   <div class="views-field views-field-nothing">        <span class="field-content"><div class="streaming-links-embed spotify">
 <div class="embed-inner-wrapper spotify">
-<iframe src="https://open.spotify.com/embed/album/733e1ZfktLSwj96X5rsMeE" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/album/6O0ggfQCsMlUsCUDu8nK3p?si=8T_EskYFSougHwdOzQoh1A" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 </div></span>  </div></li>
           <li class="views-row views-row-2 views-row-even" style="display: none;">  
@@ -4489,7 +4489,7 @@ jQuery('h1#page-title').html('Albums');
 
 								<div class="streaming-links StreamingDTM ">
 
-									<div class="item-list"><ul><li class="first"><a href="https://open.spotify.com/album/7mgdTKTCdfnLoa1HXHvLYM" target="_blank" data-track="spotify">Spotify</a></li>
+									<div class="item-list"><ul><li class="first"><a href="https://open.spotify.com/album/6O0ggfQCsMlUsCUDu8nK3p?si=8T_EskYFSougHwdOzQoh1A" target="_blank" data-track="spotify">Spotify</a></li>
 <li class="last"><a href="https://music.apple.com/in/album/1116298635?app=music&amp;lId=1836563&amp;cId=none&amp;src=Linkfire&amp;sr=1&amp;ign-itsct=catchall_p1&amp;ign-itscg=30440&amp;ign-mpt=uo%3D4" target="_blank" data-track="apple-music">Apple Music</a></li>
 </ul></div> 
 
