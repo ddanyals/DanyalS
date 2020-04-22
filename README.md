@@ -3331,7 +3331,7 @@ jQuery('h1#page-title').html('Albums');
       <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first" style="display: list-item;">  
   <div class="views-field views-field-nothing">        <span class="field-content"><div class="streaming-links-embed spotify">
 <div class="embed-inner-wrapper spotify">
-<iframe src="https://open.spotify.com/embed/track/2Ec33AVlkTTq8BHFgBTdQs" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://https://open.spotify.com/album/6O0ggfQCsMlUsCUDu8nK3p?si=8T_EskYFSougHwdOzQoh1A" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 </div></span>  </div></li>
           <li class="views-row views-row-2 views-row-even" style="display: none;">  
