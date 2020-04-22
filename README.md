@@ -6,13 +6,13 @@
 <meta name="robots" content="follow, index">
 <meta name="generator" content="Drupal 7 (http://drupal.org)">
 <link rel="canonical" href="https://www.liluziofficial.com/">
-<meta property="og:site_name" content="Lil Uzi Vert Official Website">
+<meta property="og:site_name" content="Danyal S Official Website">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.liluziofficial.com/">
 <meta property="og:title" content="Lil Uzi Vert Official Website">
 <meta property="og:description" content="Futsal Shuffle 2020 Out Now">
 <meta property="og:image" content="https://www.liluziofficial.com//sites/g/files/g2000006836/f/201912/og.png">
-<script>  digitalData = {"settings":{"reportSuites":"wmggardensdevdtm"},"content":{"artist":"Lil Uzi Vert","label":"Warner Records","sublabel":"Big Beat Records"},"page":{"pageInfo":{"pageName":"reskin homepage","platform":"Drupal 7"},"category":{"primaryCategory":"Lil Uzi Vert","pageType":"Basic page"}}}</script><script>var aliasArgs = "";
+<script>  digitalData = {"settings":{"reportSuites":"wmggardensdevdtm"},"content":{"artist":"Danyal S","label":"Warner Records","sublabel":"Big Beat Records"},"page":{"pageInfo":{"pageName":"reskin homepage","platform":"Drupal 7"},"category":{"primaryCategory":"Danyal S","pageType":"Basic page"}}}</script><script>var aliasArgs = "";
 digitalData = {
     settings: {
         reportSuites: "wmgliluziofficial.com,wmgatl,wmg" // replace with the suite id provided for the sites
@@ -25,7 +25,7 @@ digitalData = {
     page: {
         pageInfo: {
             pageName: string,
-            server: "Lil Uzi Vert:Site",
+            server: "Danyal S:Site",
             platform: "Drupal 7"
         },
         category: {
@@ -388,7 +388,7 @@ function onPlayerStateChange(event) {
 
 });</script><script src="https://www.youtube.com/iframe_api"></script><script>_satellite["__runScript3"](function(event, target) {
 console.log("Launch Libraries Loaded on Page. (Not DTM)");
-});</script>  <title>Lil Uzi Vert Official Website</title>
+});</script>  <title>Danyal S Website</title>
   <link type="text/css" rel="stylesheet" href="https://www.liluziofficial.com/sites/g/files/g2000006836/f/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all">
 <link type="text/css" rel="stylesheet" href="https://www.liluziofficial.com/sites/g/files/g2000006836/f/css/css_A7L9lzYfi0Rrggkhtup9J-NajVb47KzW_dN58Wk1YRE.css" media="all">
 <link type="text/css" rel="stylesheet" href="https://www.liluziofficial.com/sites/g/files/g2000006836/f/css/css_9-HV6mQBvWyX1aHfayEd_LDezfkxs9ayM9R3L-XROag.css" media="screen">
@@ -2113,7 +2113,7 @@ div#block-menu-menu-home-one-page-linked .content .site-menu span {
       <div class="content">
         <div id="headerReskin">
     <div class="newTitle newTitlewrap">
-        ETERNAL ATAKE       
+        Here We Go      
     </div>
     <div class="albumArt">
         <img src="/sites/g/files/g2000006836/f/202003/EAArtwork.jpeg"></div>
