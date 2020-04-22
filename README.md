@@ -2758,7 +2758,7 @@ jQuery('h1#page-title').html('Albums');
 				<div class="streaming-links-list">
 <span class="select-streaming-text"><span class="ss-text">SELECT YOUR STREAMING:</span></span><span class="streaming-dropdown"><span id="dropdown-span"><span id="dd-icon" class="wmg-sl-spotify"></span></span><div class="view view-field-collection-view view-id-field_collection_view view-display-id-block_1 view-dom-id-1624fda58b4ee40f2f274cc425658183">
         
-  
+  <iframe src="https://open.spotify.com/embed/album/6O0ggfQCsMlUsCUDu8nK3p" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
   
       <div class="view-content">
       <div class="item-list">    <ul style="display: none;">          <li class="views-row views-row-1 views-row-odd views-row-first selected">  
